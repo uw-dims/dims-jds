@@ -8,10 +8,52 @@ There are two primary ways of accessing DIMS functionality: a *web based applica
 a graphical interface, and *command line programs* that can be invoked from a command line
 or scripts.
 
-Web application front end
--------------------------
+Web application
+---------------
 
-+ JavaScript using ``Node.js``
+The web application consists of a front end client application which runs
+in a browser and a back end server application that receives requests from
+the client and communicates with other DIMS programs, services and 
+components.
+
+Web application client
+~~~~~~~~~~~~~~~~~~~~~~
+
+The web application client is a Javascript AngularJS application. The
+following skills at an intermediate to advanced level are required:
+
++ Javascript 
++ AngularJS
++ CSS, Less
++ Bootstrap
++ Promises ($q library)
++ AngularJS and Javascript unit and end-to-end testing with Karma, Mocha, 
+  Chai, Jasmine, Protractor, among others
++ Automation using Grunt
++ Package management using npm, Bower
+
+In addition, the developer should be familiar with Javascript
+functional programming, general principles of web 2.0 architectures and 
+practices.
+
+Web application server
+~~~~~~~~~~~~~~~~~~~~~~
+
+The backend server for the web application is written in Node.js and Express. 
+The following skills at an intermediate to advanced level are required when 
+working on the web application server:
+
++ Javascript 
++ Node.js 
++ Express
++ Promises (Q library- https://github.com/kriskowal/q)
++ Testing using Karma, Mocha, Chai, Sinon
++ Automation using Grunt
++ Package management using npm
+
+In addition, the developer must be familiar with Javascript functional 
+programming, RabbitMQ (AMQP), socket.io,
+Redis, Postgres.
 
 Command line front end
 ----------------------
