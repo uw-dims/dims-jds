@@ -36,6 +36,7 @@ to meet (or be willing to quickly learn) the :ref:`generalrequirements` listed
 in the first section.
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
    
    general
