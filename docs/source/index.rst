@@ -1,15 +1,20 @@
 .. DIMS Job Descriptions documentation master file.
 
-============
-Introduction
-============
+.. _dimsjobdescriptions:
+
+DIMS Job Descriptions v |release|
+=================================
 
 .. _introduction:
 
-This document contains descriptions of the basic skill sets and tasks that are
-involved in the Distributed Incident Management System (DIMS) project. It is
-based on the programming languages, operating systems, pre-existing open source
-components, and architectural design that make up DIMS.
+Introduction
+============
+
+This document (version |release|) contains descriptions of the basic skill sets
+and tasks that are involved in the Distributed Incident Management System
+(DIMS) project. It is based on the programming languages, operating systems,
+pre-existing open source components, and architectural design that make up
+DIMS.
 
 As this project involves security information management and communication,
 general experience with computer security concepts (both attack and defense),
