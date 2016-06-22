@@ -31,6 +31,7 @@ following skills at an intermediate to advanced level are required:
   Chai, Jasmine, Protractor, among others
 + Automation using Grunt
 + Package management using npm, Bower
++ JSON Web Tokens
 
 In addition, the developer should be familiar with Javascript
 functional programming, general principles of web 2.0 architectures and 
@@ -50,6 +51,7 @@ working on the web application server:
 + Testing using Karma, Mocha, Chai, Sinon
 + Automation using Grunt
 + Package management using npm
++ JSON Web Tokens
 
 In addition, the developer must be familiar with Javascript functional 
 programming, RabbitMQ (AMQP), socket.io,
@@ -60,8 +62,15 @@ Command line front end
 
 + Java command line programs
 + Python 2.7 command line programs
+    + OpenStack's `cliff - Command Line Interface Formulation Framework`_ (GitHub `openstack/cliff`_)
+
 + Bash command line programs
+    + Google's `shFlags`_ module (GitHub `kward/shflags`_)
 
 ..
 
 .. _Node.js: http://nodejs.org/
+.. _cliff - Command Line Interface Formulation Framework: http://docs.openstack.org/developer/cliff/
+.. _openstack/cliff: https://github.com/openstack/cliff
+.. _shFlags: https://github.com/kward/shflags/wiki/Documentation12x
+.. _kward/shflags: https://github.com/kward/shflags
