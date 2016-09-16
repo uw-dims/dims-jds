@@ -17,8 +17,15 @@ asking for direction as necessary.
 
   + Software development using the `Agile methodology`_ and `Scrum methodology`_
 
-  + `Git`_ for source code control using `GitHub`_, `hub`_, and `git-flow`_
-    following the `Vincent Dreisen branching workflow`_
+  + Use of `Git`_ and related tools for source control management (SCM)
+
+      + Using `GitHub`_, and *hub-flow* (`hub`_ and `git-flow`_)
+        following the `Vincent Dreisen branching workflow`_
+
+      + Handling merge conflicts from the command line with tools like
+        ``vimdiff``, or graphical user interface tools like
+        `gitk`_, `kdiff3`_, or `meld`_.
+
 
   + The concepts of `Continuous Integration`_ and `DevOps`_ (also known as
     *agile system administration* or *agile operations*) for rapid development,
@@ -68,6 +75,9 @@ asking for direction as necessary.
 .. _hub: https://hub.github.com/
 .. _git-flow: http://danielkummer.github.io/git-flow-cheatsheet/ 
 .. _Vincent Dreisen branching workflow: http://nvie.com/posts/a-successful-git-branching-model/
+.. _gitk: https://git-scm.com/docs/gitk
+.. _kdiff3: http://kdiff3.sourceforge.net
+.. _meld: http://meldmerge.org/
 .. _Sphinx: http://sphinx-doc.org
 .. _Restructured Text (reST): http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
 .. _ReadTheDocs: https://readthedocs.org/
