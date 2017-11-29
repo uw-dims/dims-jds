@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'DIMS Job Descriptions'
-copyright = u'2014, 2015 David Dittrich'
+copyright = u'2014-2017 University of Washington'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -281,7 +281,7 @@ texinfo_documents = [
 epub_title = u'DIMS Job Descriptions'
 epub_author = u'David Dittrich'
 epub_publisher = u'David Dittrich'
-epub_copyright = u'2014, 2015 David Dittrich'
+epub_copyright = u'2014-2017 University of Washington'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'DIMS Job Descriptions'
